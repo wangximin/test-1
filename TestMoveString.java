@@ -1,6 +1,6 @@
 package test;
 /**
- *ÍõÏ£Ãôlove ÑîÀÚ
+ *ÍõÏ£Ãôlove ÑîÀÚ1
  */
 import java.awt.Color;
 import java.awt.Graphics;
